@@ -1,0 +1,9 @@
+{
+    "packs": {
+        "Tekkit_AIO": {
+            "description": "Handmade markers for everything from achievement to complex map completion routes, adventures, jumping puzzles, collections, races, you name it.",
+            "version": "3.1.9",
+            "url": "https://www.tekkitsworkshop.net/downloads/tw_ALL_IN_ONE.taco"
+        }
+    }
+}
